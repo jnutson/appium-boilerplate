@@ -17,3 +17,4 @@ apps/
 chromeDriver
 .tmp
 *.mp4
+artifacts/

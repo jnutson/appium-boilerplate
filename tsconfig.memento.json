@@ -1,0 +1,5 @@
+{
+    "extends": "./tsconfig.json",
+    "compilerOptions": { "skipLibCheck": true },
+    "include": ["config/wdio.memento.conf.ts", "tests/specs/memento.spec.ts"]
+}
